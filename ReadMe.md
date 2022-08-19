@@ -15,7 +15,7 @@ This is a very simple blog websites using ejs and node js without database
 
 ## Demo
 
-![Blog Desktop Demo](./ejs.png "Desktop Demo")
+![Blog Desktop Demo](./demo.png "Desktop Demo")
 
 ## Prerequisites
 
